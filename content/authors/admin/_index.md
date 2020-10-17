@@ -15,7 +15,7 @@ interests:
 social:
   - link: mailto:aarpurd@gmail.com
     icon_pack: far
-    icon: email
+    icon: envelope
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/aaronpurdy/
