@@ -13,15 +13,18 @@ interests:
   - Running
   - Cats
 social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/apurdy
+  - link: mailto:aarpurd@gmail.com
+    icon_pack: far
+    icon: mail
+  - icon_pack: fab
+    icon: linkedin
+    link: https://www.linkedin.com/in/aaronpurdy/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/aarpurd
-  - icon_pack: far
-    icon: linkedin
-    link: https://www.linkedin.com/in/aaronpurdy/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/apurdy
 education:
   courses:
     - course: BSc in Industrial Engineering
