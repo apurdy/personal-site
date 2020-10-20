@@ -47,7 +47,27 @@ date_format = "Jan 2006"
   company_url = "https://www.bell.ca/"
   location = "Halifax, NS"
   date_start = "2016-05-01"
-  date_end = "2019-09-09"
+  date_end = "2016-09-09"
   #description = """Taught electronic engineering and researched semiconductor physics."""
 
+[[experience]]
+  title = "Technical Systems Analyst (co-op)"
+  company = "Royal Bank of Canada"
+  company_url = "https://www.rbcroyalbank.com/personal.html"
+  location = "Toronto, ON"
+  date_start = "2015-09-09"
+  date_end = "2015-12-18"
+  #description = """Taught electronic engineering and researched semiconductor physics."""
+  
+[[experience]]
+  title = "Industrial Engineer (co-op)"
+  company = "Tandus-Centiva"
+  company_url = "https://commercial.tarkett.com/en_US/brand/tandus-centiva"
+  location = "Truro, NS"
+  date_start = "2015-01-04"
+  date_end = "2015-04-30"
+  #description = """Taught electronic engineering and researched semiconductor physics."""
+  
+  
+  
 +++
