@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Power BI"
+  name = "Data Visualization"
   #description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "power-bi"
+  icon_pack = "custom"
+  name = "Power BI"
   #description = "10%"
 
 # Uncomment to use emoji icons.
