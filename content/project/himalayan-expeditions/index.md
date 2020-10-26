@@ -1,7 +1,7 @@
 ---
 title: Himalayan Expeditions
 date: 2020-10-26T19:17:31.725Z
-summary: Tidy Tuesday 2020/38 - Visualizing injuries on Himalayan peaks over the years
+summary: Tidy Tuesday 2020/39 - Visualizing injuries on Himalayan peaks over the years
 draft: false
 featured: false
 tags:
