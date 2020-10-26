@@ -10,7 +10,7 @@ categories:
   - R
 external_link: https://github.com/apurdy/TidyTuesday/tree/master/2020-32
 image:
-  filename: tidytuesday_2020_32_europemap.png
+  #filename: tidytuesday_2020_32_europemap.png
   focal_point: Smart
-  preview_only: true
+  #preview_only: true
 ---
