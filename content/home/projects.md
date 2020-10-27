@@ -32,7 +32,7 @@ subtitle = ""
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
-
+[[content.filter_button]] name = "R" tag = "R"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
